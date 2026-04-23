@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rishugkp688/WinConfigScanner/scanner"
+	"github.com/Ashwinisingh222/WinConfigScanner/scanner"
 )
 
 func main() {
