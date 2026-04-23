@@ -1,4 +1,4 @@
-module github.com/rishugkp688/WinConfigScanner
+module github.com/Ashwinisingh222/WinConfigScanner
 
 go 1.24.3
 
